@@ -17,6 +17,7 @@
 		E22E72A226831EAB0064EA6A /* Fruit.swift in Sources */ = {isa = PBXBuildFile; fileRef = E22E72A126831EAB0064EA6A /* Fruit.swift */; };
 		E22E72A526831F820064EA6A /* FruitData.swift in Sources */ = {isa = PBXBuildFile; fileRef = E22E72A426831F820064EA6A /* FruitData.swift */; };
 		E22E72A82683228B0064EA6A /* Color+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = E22E72A72683228B0064EA6A /* Color+Extension.swift */; };
+		E22E72AA268371A00064EA6A /* FruitRowView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E22E72A9268371A00064EA6A /* FruitRowView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		E22E72A126831EAB0064EA6A /* Fruit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fruit.swift; sourceTree = "<group>"; };
 		E22E72A426831F820064EA6A /* FruitData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitData.swift; sourceTree = "<group>"; };
 		E22E72A72683228B0064EA6A /* Color+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+Extension.swift"; sourceTree = "<group>"; };
+		E22E72A9268371A00064EA6A /* FruitRowView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitRowView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			isa = PBXGroup;
 			children = (
 				E22E729A26830C910064EA6A /* FruitCardView.swift */,
+				E22E72A9268371A00064EA6A /* FruitRowView.swift */,
 				E22E729C268318EA0064EA6A /* StartButtonView.swift */,
 			);
 			path = View;
@@ -198,6 +201,7 @@
 			files = (
 				E22E72A526831F820064EA6A /* FruitData.swift in Sources */,
 				E22E72A226831EAB0064EA6A /* Fruit.swift in Sources */,
+				E22E72AA268371A00064EA6A /* FruitRowView.swift in Sources */,
 				E22E729B26830C910064EA6A /* FruitCardView.swift in Sources */,
 				E22E729D268318EA0064EA6A /* StartButtonView.swift in Sources */,
 				E22E728C2682FFB20064EA6A /* ContentView.swift in Sources */,

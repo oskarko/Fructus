@@ -35,5 +35,6 @@ extension Color {
     static let grapefruitDark = Color("ColorGrapefruitDark")
     static let appleLight = Color("ColorAppleLight")
     static let appleDark = Color("ColorAppleDark")
-    static let shadow = Color(red: 0, green: 0, blue: 0, opacity: 0.15)
+    static let onboardingShadow = Color(red: 0, green: 0, blue: 0, opacity: 0.15)
+    static let fruitRowViewShadow = Color(red: 0, green: 0, blue: 0, opacity: 0.30)
 }
